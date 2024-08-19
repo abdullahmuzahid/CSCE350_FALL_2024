@@ -1,0 +1,2 @@
+# CSCE350_FALL_2024
+Repo for CSCE 350
